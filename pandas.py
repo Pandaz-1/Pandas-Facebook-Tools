@@ -1,6 +1,8 @@
 '''
 Name: Pandas
 Date: 13-07-2020
+
+Silahkan lihat codingannya,silahkan kalian lihat asalkan jangan di recode:)
 '''
 
 class Pandas:
